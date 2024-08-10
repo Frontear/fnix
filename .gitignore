@@ -1,0 +1,8 @@
+.direnv/
+.envrc
+
+.zig-cache/
+
+result
+
+target/
